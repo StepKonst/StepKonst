@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">👋 Hello! I'm StepKonst. You can call me Kostya</h1>
 
-<!--
-**StepKonst/StepKonst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> I'm a computer science student from St. Petersburg (Russia) with experience at junior level and aspire to develop in my profession. </h2>
 
-Here are some ideas to get you started:
++ 🌱 I’m currently learning anything interesting
++ 📫 How to reach me: kastian.stepurin@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2><b>⭐GitHub stats</b></h2>
+<div style="text-align:center;">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=StepKonst&show_icons=true&theme=aura"/>
+</div>
+<div style="text-align:center;">
+  <img src="https://metrics.lecoq.io/StepKonst" />
+</div>
