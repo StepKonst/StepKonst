@@ -8,8 +8,6 @@
 
 <h2><b>⭐GitHub stats</b></h2>
 <div style="text-align:center;">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=StepKonst&show_icons=true&theme=aura"/>
-</div>
-<div style="text-align:center;">
   <img src="https://metrics.lecoq.io/StepKonst" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=StepKonst&show_icons=true&theme=aura"/>
 </div>
