@@ -4,10 +4,3 @@
 
 + 🌱 I’m currently learning anything interesting
 + 📫 How to reach me: kastian.stepurin@gmail.com
-
-
-<h2><b>⭐GitHub stats</b></h2>
-<div style="text-align:center;">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=StepKonst&show_icons=true&theme=aura"/>
-  <img align="center" src="https://metrics.lecoq.io/StepKonst" />
-</div>
